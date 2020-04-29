@@ -399,7 +399,9 @@
                     2.在可能出现安全问题的代码前调用Lock接口中的方法Lock获取锁
                     3.在可能出现安全问题的代码后调用Lock接口中的方法unLock释放锁     
 ### 线程状态
+图源《Java 并发编程艺术》4.1.4 节
 ![](https://raw.githubusercontent.com/FeChaMing/Rain/master/image/1.png)
+图源《Java 并发编程艺术》4.1.4 节
 ![](https://raw.githubusercontent.com/FeChaMing/Rain/master/image/2.png)         
                 
                 
