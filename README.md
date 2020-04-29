@@ -401,6 +401,7 @@
 ### 线程状态
 图源《Java 并发编程艺术》4.1.4 节
 ![](https://raw.githubusercontent.com/FeChaMing/Rain/master/image/1.png)
+
 图源《Java 并发编程艺术》4.1.4 节
 ![](https://raw.githubusercontent.com/FeChaMing/Rain/master/image/2.png)         
                 
